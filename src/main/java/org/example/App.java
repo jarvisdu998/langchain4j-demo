@@ -13,5 +13,6 @@ public class App
                 .baseUrl("https://api.openai.com/v1")
                 .apiKey("sk-xxx")
                 .build();
+        System.out.println();
     }
 }
