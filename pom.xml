@@ -27,5 +27,10 @@
       <artifactId>langchain4j-open-ai</artifactId>
       <version>1.0.1</version>
     </dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.5.18</version>
+    </dependency>
   </dependencies>
 </project>
